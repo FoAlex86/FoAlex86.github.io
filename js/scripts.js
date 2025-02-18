@@ -10,14 +10,14 @@
 const projects = [
     {
         title: "Raytracing",
-        media: ["assets/img/project1-0.PNG", "assets/img/project1-1.PNG", "assets/img/project1-2.PNG", "assets/img/project1-3.PNG", "assets/img/project1-4.PNG"],  // Image
+        media: ["assets/img/project1-0.png", "assets/img/project1-1.png", "assets/img/project1-2.png", "assets/img/project1-3.png", "assets/img/project1-4.png"],  // Image
         type: "image-slider",
         description: " Développement d'un rendu raytracing d'une scène 3D. Implémentation de Phong, transparence, réfraction, ombres douces et profondeur de champ. Le tout en C++.",
         link: "https://github.com/FoAlex86/raytracingM1Imagine"
     },
     {
         title: "Facial Recognition",
-        media: ["assets/img/project2-1.PNG"],  // Image
+        media: ["assets/img/project2-1.png"],  // Image
         type: "image",
         description: "Développement d'un programme de reconnaissance faciale, vidéo et photos. En python sur jupiter notebook",
         link: ""
@@ -59,14 +59,14 @@ const projects = [
     },
     {
         title: "Montpunk",
-        media: ["assets/img/project8-0.PNG", "assets/img/project8-1.png", "assets/img/project8-2.png", "assets/img/project8-3.png"],  // Image
+        media: ["assets/img/project8-0.png", "assets/img/project8-1.png", "assets/img/project8-2.png", "assets/img/project8-3.png"],  // Image
         type: "image-slider",
         description: "Projet de jeu réalisé sur Unreal Engine 5 pour la GameJam IMAGINE 2023-2024. Le thème de la gameJam était Remote Control. Dans ce jeu l'on contrôle un personnage qui peut récupérer des robots et leur donné des ordres simples pour affronter des adversaires. Dans un \'Montpellier\' appocalyptique. Git du projet : https://github.com/HouleAdrien/MontPunk",
         link: "https://biscuitvanille.itch.io/montpunk"
     },
     {
         title: "Quarto",
-        media: ["assets/img/project9-0.png", "assets/img/project9-1.png", "assets/img/project9-2.PNG", "assets/img/project9-3.PNG", "assets/img/project9-4.PNG"],  // Image
+        media: ["assets/img/project9-0.png", "assets/img/project9-1.png", "assets/img/project9-2.png", "assets/img/project9-3.png", "assets/img/project9-4.png"],  // Image
         type: "image-slider",
         description: "Projet de Master en programmation orienté agent. L'objectif était de faire une IA qui calcule les coups à jouer, nous avons donc pris le jeu Quarto qui possède une dimension raisonnable mais avec quand même une grande quantité de choix possible en particulier au début du jeu. J'ai aussi réalisé les pions sur ce projet et leur texture.",
         link: ""
@@ -87,7 +87,7 @@ const projects = [
     },
     {
         title: "Tragedy_of_commons",
-        media: ["assets/img/image-not-found-icon.PNG"],  // Image
+        media: ["assets/img/image-not-found-icon.png"],  // Image
         type: "image",
         description: "Projet de programmation orientée agents sur un modèle de pêche. Par ELMAROUFI Amine FOURNIER Alexandre HELYE Samuel et PRE Benjamin. Fondée sur la tragédie des communs. Interface en ligne de commande.",
         link: "https://github.com/Rikougo/Tragedy_of_commons"
