@@ -84,13 +84,6 @@ const projects = [
         type: "video",
         description: "Projet développement mobile pour ma première année de Master. Création d'une application marchande type leboncoin en java avec android studio. Utilisation d'une base de donnée NoSQL(Firebase)",
         link: ""
-    },
-    {
-        title: "Tragedy_of_commons",
-        media: ["assets/img/image-not-found-icon.png"],  // Image
-        type: "image",
-        description: "Projet de programmation orientée agents sur un modèle de pêche. Par ELMAROUFI Amine FOURNIER Alexandre HELYE Samuel et PRE Benjamin. Fondée sur la tragédie des communs. Interface en ligne de commande.",
-        link: "https://github.com/Rikougo/Tragedy_of_commons"
     }
 ];
 
@@ -125,7 +118,8 @@ window.addEventListener('DOMContentLoaded', event => {
         selector: '.portfolio-lightbox'
       });
 
-    //loadLanguage(localStorage.getItem("lang") || "fr"); 
+    //   const savedLang = localStorage.getItem("language") || "fr";
+    //   changeLanguage(savedLang);
 });
 
 // Fonction pour ouvrir la lightbox
@@ -260,25 +254,23 @@ function closeLightbox(event) {
         clearInterval(sliderInterval);
     }
 }
-/*
-function changeLanguage(lang)
-{
-    fetch("./translations/translations.json")
-        .then(response => response.json())
-        .then(data => {
-            document.querySelectorAll("[data-key]").forEach(element =>
-            {
-                let key = element.getAttribute("data-key");
-                if (data[lang] && data[lang][key])
-                {
-                    element.textContent = data[lang][key];
-                }
-            });
-            localStorage.setItem("lang", lang); // Sauvegarde la langue choisie
-        });
-}
 
-function loadLanguage(lang)
-{
-    changeLanguage(lang);
-}*/
+// async function changeLanguage(lang) {
+//     try {
+//         const response = await fetch("translations/translations.json");
+//         const translations = await response.json();
+
+//         if (translations[lang]) {
+//             document.querySelectorAll("[data-i18n]").forEach(element => {
+//                 const key = element.getAttribute("data-i18n");
+//                 if (translations[lang][key]) {
+//                     element.textContent = translations[lang][key];
+//                 }
+//             });
+
+//             localStorage.setItem("language", lang); // Sauvegarde la langue choisie
+//         }
+//     } catch (error) {
+//         console.error("Erreur de chargement des traductions :", error);
+//     }
+// }
