@@ -272,7 +272,7 @@ async function changeLanguage(lang) {
             const frButton = document.getElementById("buttonFR");
             const engButton = document.getElementById("buttonENG");
 
-            if(lang === "en")
+            if(lang === "fr")
             {
                 frButton.classList.replace("btn-secondary", "btn-primary");
                 engButton.classList.replace("btn-primary", "btn-secondary");
