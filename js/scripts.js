@@ -269,9 +269,10 @@ async function changeLanguage(lang) {
             });
 
             localStorage.setItem("language", lang); // Sauvegarde la langue choisie
-            var frButton = document.querySelector("#buttonFR");
-            var engButton = document.querySelector("#buttonENG");
-            if(lang == "en")
+            const frButton = document.getElementById("buttonFR");
+            const engButton = document.getElementById("buttonENG");
+
+            if(lang === "en")
             {
                 frButton.classList.replace("btn-secondary", "btn-primary");
                 engButton.classList.replace("btn-primary", "btn-secondary");
