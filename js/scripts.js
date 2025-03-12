@@ -9,80 +9,102 @@
 // Liste des projets avec leurs médias (image ou vidéo)
 const projects = [
     {
-        title: "Raytracing",
+        titleFR: "Raytracing",
+        titleEN: "Raytracing",
         media: ["assets/img/project1-0.png", "assets/img/project1-1.png", "assets/img/project1-2.png", "assets/img/project1-3.png", "assets/img/project1-4.png"],  // Image
         type: "image-slider",
-        description: " Développement d'un rendu raytracing d'une scène 3D. Implémentation de Phong, transparence, réfraction, ombres douces et profondeur de champ. Le tout en C++.",
+        descriptionFR: "Développement d'un rendu raytracing d'une scène 3D. Implémentation de Phong, transparence, réfraction, ombres douces et profondeur de champ. Le tout en C++.",
+        descriptionEN: "Development of a raytracing rendering for a 3D scene. Implementation of Phong shading, transparency, refraction, soft shadows, and depth of field. All in C++.",
         link: "https://github.com/FoAlex86/raytracingM1Imagine"
     },
     {
-        title: "Facial Recognition",
+        titleFR: "Reconnaissance faciale",
+        titleEN: "Facial Recognition",
         media: ["assets/img/project2-1.png"],  // Image
         type: "image",
-        description: "Développement d'un programme de reconnaissance faciale, vidéo et photos. En python sur jupiter notebook",
+        descriptionFR: "Développement d'un programme de reconnaissance faciale, vidéo et photos. En Python sur Jupyter Notebook.",
+        descriptionEN: "Development of a facial recognition program for video and photos using Python on Jupyter Notebook.",
         link: ""
     },
     {
-        title: "Denoizingz",
+        titleFR: "Denoizingz",
+        titleEN: "Denoizingz",
         media: "assets/videos/denoizings.mp4",  // Vidéo
         type: "video",
-        description: "Denoizingz est une application capable de débruiter des images bruitées par des bruits de Gauss ou de poisson avec la méthode Noise2Noise. Mais il est aussi possible de débruiter du bruits impulsionnel avec un filtre bilatéral a trou. Tout ceci dans une interface graphique.",
+        descriptionFR: "Application capable de débruiter des images bruitées par des bruits de Gauss ou de Poisson avec la méthode Noise2Noise. Interface graphique incluse.",
+        descriptionEN: "Application capable of denoising images corrupted by Gaussian or Poisson noise using the Noise2Noise method. Includes a graphical interface.",
         link: "https://github.com/FoAlex86/M2ImageProject/tree/main"
     },
     {
-        title: "Fluzzle",
+        titleFR: "Fluzzle",
+        titleEN: "Fluzzle",
         media: "https://youtu.be/MXMk2f8X0ns",  // Vidéo
         type: "video",
-        description: "Jeu de \'Puzzle\' 3D. Manipulation d'éléments (feu, eau, ...) pour intéragir avec l'environnement et permettre d'avancer. Réalisé sur Unity. Le Git est privé mais je peut partager le jeu si demande.",
+        descriptionFR: "Jeu de 'Puzzle' 3D réalisé sur Unity. Manipulation d'éléments (feu, eau, ...) pour interagir avec l'environnement.",
+        descriptionEN: "3D 'Puzzle' game developed on Unity. Manipulation of elements (fire, water, ...) to interact with the environment.",
         link: ""
     },
     {
-        title: "SmashLemons",
-        media: "assets/videos/Présentation_SmashLemon.mp4",  // Vidéo
+        titleFR: "SmashLemons",
+        titleEN: "SmashLemons",
+        media: "assets/videos/Présentation_SmashLemon.mp4",
         type: "video",
-        description: "Jeu de Combat \'Smash like\'. Menu multijoueur (en locale) permettant jusqu'a 4 joueurs de sélectionner leur personnages, possibilité de mettre des IA. J'ai réalisé le chat, ces animations, les déplacements et le menu.",
+        descriptionFR: "Jeu de combat 'Smash like'. Menu multijoueur en local, jusqu'à 4 joueurs avec IA possible.",
+        descriptionEN: "Smash-like fighting game. Local multiplayer menu, up to 4 players with AI support.",
         link: "https://github.com/Camille-Bernadas/SmashLemons"
     },
     {
-        title: "Snake 3D",
-        media: ["assets/img/project6-0.png"],  // Image
+        titleFR: "Snake 3D",
+        titleEN: "Snake 3D",
+        media: ["assets/img/project6-0.png"],
         type: "image",
-        description: "Recréation du jeu snake dans un environnement 3D. Fait en C++ avec OpenGL, le moteur de jeu à été créer pour faire snake.",
+        descriptionFR: "Recréation du jeu Snake en 3D. Moteur de jeu développé en C++ avec OpenGL.",
+        descriptionEN: "Recreation of the Snake game in a 3D environment. Game engine built with C++ and OpenGL.",
         link: "https://github.com/Skoll1470/Snake3D"
     },
     {
-        title: "Fiesta Foraine",
-        media: "assets/videos/Démonstration_FiestaForaine.mp4",  // Vidéo
+        titleFR: "Fiesta Foraine",
+        titleEN: "Fiesta Foraine",
+        media: "assets/videos/Démonstration_FiestaForaine.mp4",
         type: "video",
-        description: "Projet de jeu VR, création d'un environnement de jeu de fête foraine avec plusieurs stand de jeu jouable. Lancer d'anneau, lancer de balle, jeu de tir, chambouletout. Réalisé sur Unity, utilisant casque VR. Le jeu est partageable mais réalisé avec la gestion de version d'Unity.",
+        descriptionFR: "Projet de jeu VR réalisé sur Unity, comprenant divers jeux de fête foraine (tir, lancer d'anneaux, etc.).",
+        descriptionEN: "VR game project on Unity featuring various carnival-style games (shooting, ring toss, etc.).",
         link: ""
     },
     {
-        title: "Montpunk",
-        media: ["assets/img/project8-0.png", "assets/img/project8-1.png", "assets/img/project8-2.png", "assets/img/project8-3.png"],  // Image
+        titleFR: "Montpunk",
+        titleEN: "Montpunk",
+        media: ["assets/img/project8-0.png", "assets/img/project8-1.png", "assets/img/project8-2.png", "assets/img/project8-3.png"],
         type: "image-slider",
-        description: "Projet de jeu réalisé sur Unreal Engine 5 pour la GameJam IMAGINE 2023-2024. Le thème de la gameJam était Remote Control. Dans ce jeu l'on contrôle un personnage qui peut récupérer des robots et leur donné des ordres simples pour affronter des adversaires. Dans un \'Montpellier\' appocalyptique. Git du projet : https://github.com/HouleAdrien/MontPunk",
+        descriptionFR: "Jeu réalisé sur Unreal Engine 5 pour la GameJam IMAGINE 2023-2024 sur le thème Remote Control.",
+        descriptionEN: "Game developed on Unreal Engine 5 for the IMAGINE GameJam 2023-2024 themed Remote Control.",
         link: "https://biscuitvanille.itch.io/montpunk"
     },
     {
-        title: "Quarto",
-        media: ["assets/img/project9-0.png", "assets/img/project9-1.png", "assets/img/project9-2.png", "assets/img/project9-3.png", "assets/img/project9-4.png"],  // Image
+        titleFR: "Quarto",
+        titleEN: "Quarto",
+        media: ["assets/img/project9-0.png", "assets/img/project9-1.png", "assets/img/project9-2.png", "assets/img/project9-3.png", "assets/img/project9-4.png"],
         type: "image-slider",
-        description: "Projet de Master en programmation orienté agent. L'objectif était de faire une IA qui calcule les coups à jouer, nous avons donc pris le jeu Quarto qui possède une dimension raisonnable mais avec quand même une grande quantité de choix possible en particulier au début du jeu. J'ai aussi réalisé les pions sur ce projet et leur texture.",
+        descriptionFR: "Projet de Master en programmation orientée agent. IA pour le jeu Quarto avec gestion des pions et textures.",
+        descriptionEN: "Master's project in agent-oriented programming. AI for the Quarto game with piece and texture management.",
         link: ""
     },
     {
-        title: "TopDownShooter",
-        media: ["assets/img/project10-1.png", "assets/img/project10-0.png", "assets/img/project10-2.png", "assets/img/project10-3.png", "assets/img/project10-4.png"],  // Image
+        titleFR: "TopDownShooter",
+        titleEN: "TopDownShooter",
+        media: ["assets/img/project10-1.png", "assets/img/project10-0.png", "assets/img/project10-2.png", "assets/img/project10-3.png", "assets/img/project10-4.png"],
         type: "image-slider",
-        description: "Projet de jeu réalisé sur Unity pour la GameJam IMAGINE 2022-2023. Seul développeur.",
+        descriptionFR: "Projet de jeu développé seul sur Unity pour la GameJam IMAGINE 2022-2023.",
+        descriptionEN: "Solo-developed Unity game for the IMAGINE GameJam 2022-2023.",
         link: "https://foalex86.itch.io/topdownshooter"
     },
     {
-        title: "Le Coin",
-        media: "https://www.youtube.com/watch?v=vcHJ_hRH2ig",  // Vidéo
+        titleFR: "Le Coin",
+        titleEN: "Le Coin",
+        media: "https://www.youtube.com/watch?v=vcHJ_hRH2ig",
         type: "video",
-        description: "Projet développement mobile pour ma première année de Master. Création d'une application marchande type leboncoin en java avec android studio. Utilisation d'une base de donnée NoSQL(Firebase)",
+        descriptionFR: "Application mobile type 'Leboncoin' développée en Java avec Android Studio et Firebase.",
+        descriptionEN: "Mobile app similar to 'Leboncoin' developed in Java with Android Studio and Firebase.",
         link: ""
     }
 ];
@@ -131,8 +153,15 @@ function openLightbox(index) {
     const linkButton = document.getElementById("lightbox-link");
     const project = projects[index];
 
-    document.getElementById("lightbox-title").textContent = project.title;
-    document.getElementById("lightbox-desc").textContent = project.description;
+    // Récupérer la langue actuelle
+    const lang = localStorage.getItem("language") || "fr";
+
+    // Afficher le titre et la description selon la langue
+    const title = lang === "en" ? project.titleEN : project.titleFR;
+    const description = lang === "en" ? project.descriptionEN : project.descriptionFR;
+
+    document.getElementById("lightbox-title").textContent = title;
+    document.getElementById("lightbox-desc").textContent = description;
 
     // Nettoyer l'ancien contenu média
     mediaContainer.innerHTML = "";
