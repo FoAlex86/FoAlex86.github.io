@@ -33,7 +33,8 @@
 
       "edu1_title": "Faculté des Sciences, Université de Montpellier",
       "edu1_degree": "Master Informatique",
-      "edu1_desc": "IMAGINE : Jeux vidéo, Image et Intelligence Artificielle. Programmation 3D, modélisation 3D, traitement et analyse d'image. Machine Learning, IA, Android Studio, Open GL, Cuda, Unity, C++, Python...",
+      "edu1_desc1": "IMAGINE : Jeux vidéo, Image et Intelligence Artificielle",
+      "edu1_desc2": "Formation programmation 3D, modélisation 3D, traitement et analyse d'image. Machine Learning, IA, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
       "edu1_date": "2021 - 2024",
 
       "edu2_title": "Faculté des Sciences Fondamentales et Appliquées, Université de Poitiers",
@@ -41,12 +42,13 @@
       "edu2_desc": "Linux, C#, Base de données (SQL), Java, Javascript, PHP, HTML/CSS...",
       "edu2_date": "2019 - 2021",
 
-      "edu4_title": "CNED",
-      "edu4_degree": "Baccalauréat Scientifique",
-      "edu4_desc": "Travail en autonomie, gestion du temps",
-      "edu4_date": "2017",
+      "edu3_title": "CNED",
+      "edu3_degree": "Baccalauréat Scientifique",
+      "edu3_desc": "Travail en autonomie, gestion du temps",
+      "edu3_date": "2017",
 
       "skills_programming": "Langages de programmation et logiciels",
+      "vr" : "RV",
       "skills_workflow": "Workflow et Langue",
       "skill_1": "Programmation Orientée Objet",
       "skill_2": "Programmation Orientée Agent",
@@ -55,26 +57,37 @@
       "skill_5": "Anglais : Courant",
 
       "view_more": "Voir plus",
+
       "project1_title": "Raytracing",
       "project1_desc": "Rendu raytracing d'une scène 3D",
+
       "project2_title": "Reconnaissance faciale",
       "project2_desc": "Développement d'un programme de reconnaissance faciale",
-      "project3_title": "Débruitage d'images",
+      
+      "project3_title": "Denoizing",
       "project3_desc": "Application de débruitage d'images",
+      
       "project4_title": "Fluzzle",
       "project4_desc": "Projet de jeu 'Puzzle' 3D",
+      
       "project5_title": "SmashLemon",
       "project5_desc": "Développement d'un jeu de combat Smash like",
+      
       "project6_title": "Snake 3D",
       "project6_desc": "Développement d'un moteur de jeu pour faire snake dans un environnement 3D",
+      
       "project7_title": "Fiesta Foraine",
-      "project7_desc": "Projet de jeu VR de master",
+      "project7_desc": "Projet de jeu RV de master",
+     
       "project8_title": "Montpunk",
       "project8_desc": "Jeu réalisé pour GameJam IMAGINE 2023-2024",
+      
       "project9_title": "Quarto",
       "project9_desc": "Projet de Master en programmation orientée agent",
+      
       "project10_title": "TopDownShooter",
       "project10_desc": "Jeu réalisé pour la GameJam IMAGINE 2022-2023",
+      
       "project11_title": "Le coin",
       "project11_desc": "Projet développement mobile pour ma première année de master"
   },
@@ -112,7 +125,8 @@
 
       "edu1_title": "Faculty of Sciences, University of Montpellier",
       "edu1_degree": "Master in Computer Science",
-      "edu1_desc": "IMAGINE: Video Games, Image, and Artificial Intelligence. 3D programming, 3D modeling, image processing and analysis. Machine Learning, AI, Android Studio, Open GL, Cuda, Unity, C++, Python...",
+      "edu1_desc1": "IMAGINE: Video Games, Image, and Artificial Intelligence",
+      "edu1_desc2": "Training in 3D programming, 3D modeling, image processing, and analysis. Machine Learning, AI, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
       "edu1_date": "2021 - 2024",
 
       "edu2_title": "Faculty of Fundamental and Applied Sciences, University of Poitiers",
@@ -120,13 +134,14 @@
       "edu2_desc": "Linux, C#, Database (SQL), Java, Javascript, PHP, HTML/CSS...",
       "edu2_date": "2019 - 2021",
 
-      "edu4_title": "CNED",
-      "edu4_degree": "Scientific Baccalaureate",
-      "edu4_desc": "Self-study, time management",
-      "edu4_date": "2017",
+      "edu3_title": "CNED",
+      "edu3_degree": "Scientific Baccalaureate",
+      "edu3_desc": "Self-study, time management",
+      "edu3_date": "2017",
 
       "skills_programming": "Programming Languages and Software",
       "skills_workflow": "Workflow and Language",
+      "vr" : "VR",
       "skill_1": "Object-Oriented Programming",
       "skill_2": "Agent-Oriented Programming",
       "skill_3": "Agile and Waterfall Development",
@@ -134,26 +149,37 @@
       "skill_5": "English: Fluent",
 
       "view_more": "View more",
+      
       "project1_title": "Raytracing",
       "project1_desc": "Raytracing rendering of a 3D scene",
+      
       "project2_title": "Facial Recognition",
       "project2_desc": "Development of a facial recognition program",
-      "project3_title": "Image Denoising",
+      
+      "project3_title": "Denoizingz",
       "project3_desc": "Image denoising application",
+
       "project4_title": "Fluzzle",
       "project4_desc": "3D 'Puzzle' game project",
+
       "project5_title": "SmashLemon",
       "project5_desc": "Development of a Smash-like fighting game",
+      
       "project6_title": "Snake 3D",
       "project6_desc": "Development of a game engine for 3D snake gameplay",
+      
       "project7_title": "Fiesta Foraine",
       "project7_desc": "Master's VR game project",
+
       "project8_title": "Montpunk",
       "project8_desc": "Game created for GameJam IMAGINE 2023-2024",
+      
       "project9_title": "Quarto",
       "project9_desc": "Master's project in agent-oriented programming",
+      
       "project10_title": "TopDownShooter",
       "project10_desc": "Game created for the GameJam IMAGINE 2022-2023",
+      
       "project11_title": "Le coin",
       "project11_desc": "Mobile development project for my first year of master's degree"
   }
