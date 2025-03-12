@@ -5,33 +5,29 @@
       "education": "Formation",
       "skills": "Compétence",
       "portfolio": "Portfolio",
+      "master_degree": "Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)",
       "description_intro": "Passionné par l'innovation numérique, je m'appelle Alexandre Fournier. Je suis un développeur polyvalent en quête d'opportunités dans le jeu vidéo, la 3D, la VR, le traitement d’image ou le développement logiciel. Prêt à relever de nouveaux défis et à créer des expériences immersives et performantes !",
       "degree": "Diplômé en développement 3D, traitement d’image et intelligence artificielle",
       "about_me": "Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.<br>L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
       "portfolio_note": "Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.",
 
       "exp1_title": "Stage développeur et QA",
-      "exp1_company": "Virtualis Montpellier",
       "exp1_desc": "Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la rééducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise.",
       "exp1_date": "Février 2024 - Juillet 2024",
 
       "exp2_title": "Stage développeur",
-      "exp2_company": "VATES Grenoble",
       "exp2_desc": "Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégration d'un serveur, interface en ligne de commande, manipulation de fichiers compressés, retour utilisateur. Rust.",
       "exp2_date": "Mai 2021 - Juillet 2021",
 
       "exp3_title": "Saisonnier",
-      "exp3_company": "Arterris Castelnaudary",
       "exp3_desc": "Agent polyvalent, tri de grains.",
       "exp3_date": "Juin-Juillet 2022",
 
       "exp4_title": "Extra (serveur)",
-      "exp4_company": "Cousin traiteur Poitiers",
       "exp4_desc": "Service client, longue plage horaire, évènementiel.",
       "exp4_date": "Juin-Août 2019",
 
       "exp5_title": "Manutentionnaire",
-      "exp5_company": "Société CDA Châtellerault",
       "exp5_date": "Février 2016",
 
       "edu1_title": "Faculté des Sciences, Université de Montpellier",
@@ -43,11 +39,6 @@
       "edu2_degree": "Licence Informatique",
       "edu2_desc": "Linux, C#, Base de données (SQL), Java, Javascript, PHP, HTML/CSS...",
       "edu2_date": "2019 - 2021",
-
-      "edu3_title": "Université de la Rochelle",
-      "edu3_degree": "DUT Informatique, 1ère année",
-      "edu3_desc": "Base de données, C++, Java, HTML",
-      "edu3_date": "2018",
 
       "edu4_title": "CNED",
       "edu4_degree": "Baccalauréat Scientifique",
@@ -92,33 +83,29 @@
       "education": "Education",
       "skills": "Skills",
       "portfolio": "Portfolio",
+      "master_degree": "Master's degree in Computer Graphics (Image analysis and processing, 3D programming, and Artificial Intelligence)",
       "description_intro": "Passionate about digital innovation, my name is Alexandre Fournier. I am a versatile developer seeking opportunities in video games, 3D, VR, image processing, or software development. Ready to take on new challenges and create immersive and high-performance experiences!",
       "degree": "Graduate in 3D development, image processing, and artificial intelligence",
       "about_me": "Curious and creative, I have always been attracted to games of all kinds: video games, board games, role-playing games—a passion that has followed me since childhood. I love imagining, designing, and bringing interactive and immersive experiences to life.<br>Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
       "portfolio_note": "My portfolio is available below, and you can find my CV on my LinkedIn if you are interested.",
       
       "exp1_title": "Developer and QA Intern",
-      "exp1_company": "Virtualis Montpellier",
       "exp1_desc": "Implementation of specifications created in collaboration with a physiotherapist. Object appearance based on gaze tracking for rehabilitation using VR on Unity. QA of various company modules.",
       "exp1_date": "February 2024 - July 2024",
 
       "exp2_title": "Developer Intern",
-      "exp2_company": "VATES Grenoble",
       "exp2_desc": "Analysis and processing of logs and data from an XCP-ng / XO installation to make them clearer. Integration of a server, command-line interface, handling of compressed files, user feedback. Rust.",
       "exp2_date": "May 2021 - July 2021",
 
       "exp3_title": "Seasonal Worker",
-      "exp3_company": "Arterris Castelnaudary",
       "exp3_desc": "General worker, grain sorting.",
       "exp3_date": "June-July 2022",
 
       "exp4_title": "Waiter (Extra)",
-      "exp4_company": "Cousin Traiteur Poitiers",
       "exp4_desc": "Customer service, long working hours, event service.",
       "exp4_date": "June-August 2019",
 
       "exp5_title": "Warehouse Worker",
-      "exp5_company": "CDA Châtellerault Company",
       "exp5_date": "February 2016",
 
       "edu1_title": "Faculty of Sciences, University of Montpellier",
@@ -130,11 +117,6 @@
       "edu2_degree": "Bachelor's in Computer Science",
       "edu2_desc": "Linux, C#, Database (SQL), Java, Javascript, PHP, HTML/CSS...",
       "edu2_date": "2019 - 2021",
-
-      "edu3_title": "University of La Rochelle",
-      "edu3_degree": "DUT in Computer Science, 1st year",
-      "edu3_desc": "Databases, C++, Java, HTML",
-      "edu3_date": "2018",
 
       "edu4_title": "CNED",
       "edu4_degree": "Scientific Baccalaureate",

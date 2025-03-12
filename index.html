@@ -30,6 +30,10 @@
     <body id="page-top">
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <div class="d-flex justify-content-end my-3">
+                <button class="btn btn-primary me-2" onclick="changeLanguage('fr')">🇫🇷 Français</button>
+                <button class="btn btn-secondary" onclick="changeLanguage('en')">🇬🇧 English</button>
+            </div>
             <a class="navbar-brand js-scroll-trigger" href="#me">
                 <span class="d-block d-lg-none">Alexandre Fournier</span>
                 <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="photo d'Alexandre Fournier" /></span>
@@ -59,7 +63,7 @@
                         Alexandre
                         <span class="text-primary">Fournier</span>
                     </h1>
-                    <div class="subheading mb-5 diplomacolor">
+                    <div class="subheading mb-5 diplomacolor" data-i18n="master_degree">
                         Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)
                     </div>
                     <div class="me-container">
@@ -76,12 +80,12 @@
 
                     <div class="row">
                         <div class="col-lg-8 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="75">
-                            <h3 class="mb-4"> Diplômé en développement 3D, traitement d’image et intelligence artificielle</h3>
-                            <p class="mb-2">Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.<br>
+                            <h3 class="mb-4" data-i18n="degree"> Diplômé en développement 3D, traitement d’image et intelligence artificielle</h3>
+                            <p class="mb-2" data-i18n="about_me">Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.<br>
 
                                 L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.
                             </p>
-                            <p class="mb-3"><em>Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.</em></p>
+                            <p class="mb-3" data-i18n="portfolio_note"><em>Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.</em></p>
                         </div>
                         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="125">
                             <img src="assets/img/cheeseImagineLemon.png" class="img-fluid" alt="Photo d'un humanoïde chat réaliser et animer sur blender">
@@ -93,45 +97,45 @@
             <!-- Experience-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content" data-aos="fade-right" data-aos-delay="125">
-                    <h2 class="mb-5">Experience</h2>
+                    <h2 class="mb-5" data-i18n="experience">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0"> Stage développeur et QA</h3>
+                            <h3 class="mb-0" data-i18n="exp1_title"> Stage développeur et QA</h3>
                             <div class="subheading mb-3">Virtualis Montpellier</div>
-                            <p>Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la réeducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise</p>
+                            <p data-i18n="exp1_desc">Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la réeducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Février 2024 - Juillet 2024</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary" data-i18n="exp1_date">Février 2024 - Juillet 2024</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Stage développeur</h3>
+                            <h3 class="mb-0" data-i18n="exp2_title">Stage développeur</h3>
                             <div class="subheading mb-3">VATES Grenoble</div>
-                            <p>Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégrer un serveur, une interface lignes de commande, manipulation de fichier compresser, renvoie à l'utilisateur. Rust.</p>
+                            <p data-i18n="exp2_desc">Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégrer un serveur, une interface lignes de commande, manipulation de fichier compresser, renvoie à l'utilisateur. Rust.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Mai 2021 - Juillet 2021</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary" data-i18n="exp2_date">Mai 2021 - Juillet 2021</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Saisonnier</h3>
+                            <h3 class="mb-0" data-i18n="exp3_title">Saisonnier</h3>
                             <div class="subheading mb-3">Arterris Castelnaudary</div>
-                            <p>Agent polyvalent, tri de grains.</p>
+                            <p data-i18n="exp3_desc">Agent polyvalent, tri de grains.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Juin-Juillet 2022</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary" data-i18n="exp3_date">Juin-Juillet 2022</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Extra (serveur)</h3>
+                            <h3 class="mb-0" data-i18n="exp4_title">Extra (serveur)</h3>
                             <div class="subheading mb-3">Cousin traiteur Poitiers</div>
-                            <p> Service client, longue plage horaire, évènementiel.</p>
+                            <p data-i18n="exp4_desc"> Service client, longue plage horaire, évènementiel.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Juin-Aout 2019</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary" data-i18n="exp4_date">Juin-Aout 2019</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Manutentionnaire</h3>
+                            <h3 class="mb-0" data-i18n="exp5_title">Manutentionnaire</h3>
                             <div class="subheading mb-3">Société CDA Châtellerault</div>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">Février 2016</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary" data-i18n="exp5_date">Février 2016</span></div>
                     </div>
                 </div>
             </section>
@@ -156,14 +160,6 @@
                             <p>Linux, C\#, Base de données (SQL), Java, Javascript, PHP, HTML/CSS...</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">2019 - 2021</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0"> Université de la Rochelle</h3>
-                            <div class="subheading mb-3">DUT Informatique, 1° année</div>
-                            <p>Base de données, C++, Java, HTML</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">2018</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
