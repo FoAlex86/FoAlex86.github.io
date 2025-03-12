@@ -8,7 +8,8 @@
       "master_degree": "Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)",
       "description_intro": "Passionné par l'innovation numérique, je m'appelle Alexandre Fournier. Je suis un développeur polyvalent en quête d'opportunités dans le jeu vidéo, la 3D, la VR, le traitement d’image ou le développement logiciel. Prêt à relever de nouveaux défis et à créer des expériences immersives et performantes !",
       "degree": "Diplômé en développement 3D, traitement d’image et intelligence artificielle",
-      "about_me": "Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.<br>L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
+      "about_me1": "Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.",
+      "about_me2": "L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
       "portfolio_note": "Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.",
 
       "exp1_title": "Stage développeur et QA",
@@ -86,7 +87,8 @@
       "master_degree": "Master's degree in Computer Graphics (Image analysis and processing, 3D programming, and Artificial Intelligence)",
       "description_intro": "Passionate about digital innovation, my name is Alexandre Fournier. I am a versatile developer seeking opportunities in video games, 3D, VR, image processing, or software development. Ready to take on new challenges and create immersive and high-performance experiences!",
       "degree": "Graduate in 3D development, image processing, and artificial intelligence",
-      "about_me": "Curious and creative, I have always been attracted to games of all kinds: video games, board games, role-playing games—a passion that has followed me since childhood. I love imagining, designing, and bringing interactive and immersive experiences to life.<br>Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
+      "about_me": "Curious and creative, I have always been attracted to games of all kinds: video games, board games, role-playing games—a passion that has followed me since childhood. I love imagining, designing, and bringing interactive and immersive experiences to life.",
+      "about_me2": "Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
       "portfolio_note": "My portfolio is available below, and you can find my CV on my LinkedIn if you are interested.",
       
       "exp1_title": "Developer and QA Intern",
