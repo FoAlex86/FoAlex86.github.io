@@ -269,6 +269,18 @@ async function changeLanguage(lang) {
             });
 
             localStorage.setItem("language", lang); // Sauvegarde la langue choisie
+            var frButton = document.querySelector("#buttonFR");
+            var engButton = document.querySelector("#buttonENG");
+            if(lang == "en")
+            {
+                frButton.classList.replace("btn-secondary", "btn-primary");
+                engButton.classList.replace("btn-primary", "btn-secondary");
+            }
+            else
+            {
+                frButton.classList.replace("btn-primary", "btn-secondary");
+                engButton.classList.replace("btn-secondary", "btn-primary");
+            }
         }
     } catch (error) {
         console.error("Erreur de chargement des traductions :", error);
