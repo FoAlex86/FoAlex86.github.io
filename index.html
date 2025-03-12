@@ -51,6 +51,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education"><i class="fa fa-university"></i> <span data-i18n="education">Formation</span> </a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills"><i class="fa fa-trophy"></i> <span data-i18n="skills">Compétence</span> </a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio"><i class="fa fa-folder-open"></i> <span data-i18n="portfolio">Portfolio</span> </a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#hobbies"><i class="fa fa-gamepad"></i> <span data-i18n="hobbies">Loisirs</span> </a></li>
                 </ul>
             </div>
         </nav>
@@ -333,32 +334,82 @@
                     </div>
                 </div>
             </section>
-        <!-- Lightbox -->
-        <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
-            <div class="lightbox-content" onclick="event.stopPropagation();">
-                <span class="close" onclick="closeLightbox()">&times;</span>
-                <h3 id="lightbox-title"></h3>
+            <!-- Hobbies-->
+            <section class="resume-section" id="hobbies">
+                <div class="resume-section-content" data-aos="flip-left" data-aos-delay="75">
+                    <h2 class="mb-5" data-i18n="hobbies">Loisirs</h2>
+                    <p data-i18n="hobbies_intro">Une petite liste non ordonnée de mes principaux loisirs pour mieux me connaître</p>
 
-                <!-- Conteneur du slider avec boutons -->
-                <div id="lightbox-slider" class="slider-container" style="display: none;">
-                    <button class="slider-btn left" onclick="prevSlide(event)">&#10094;</button>
-                    <div class="slider-wrapper">
-                        <div class="slider">
-                            <!-- Images ajoutées dynamiquement -->
+                    <div class="row portfolio-container">
+                        <!-- Hobby 1 -->
+                        <div class="col-lg-3 col-md-4 portfolio-item">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/videoGame.jpg" class="img-fluid" alt="Image de mon personnage sur Monster Hunter Wild">
+                                <div class="portfolio-info">
+                                    <h4 data-i18n="hobby1_title">Jeu vidéo</h4>
+                                    <p data-i18n="hobby1_desc" >Passionnée de jeu vidéo depuis mes 4 ans, je joue à de nombreux type de jeu. Même si principalement les jeux de stratégie, rpg, et jeu "chill". J'aime tellement les jeux que j'ai déjà participé à la création de plusieurs petits projets de jeux.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hobby 2 -->
+                        <div class="col-lg-3 col-md-4 portfolio-item">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/hike.jpg" class="img-fluid" alt="Image d'un environnement rencontré lors d'une de mes nombreuses randonnées. Contient : photo de la mer bretonne sur la gauche, a droite une falaise au loins et devant la plage en contrebas.">
+                                <div class="portfolio-info">
+                                    <h4 data-i18n="hobby2_title">Randonnée</h4>
+                                    <p data-i18n="hobby2_desc">Depuis quelques années j'apprécie énormement de randonnées dans de nouveau lieu que je n'ai pas déjà visité. Que ce soit en vacances ou autour de l'endroit ou je vie.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hobby 3 -->
+                        <div class="col-lg-3 col-md-4 portfolio-item">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/roleGame.jpeg" class="img-fluid" alt="Photo d'un bereal. Selfie de moi en bas a gauche, et sur le reste de la photo mon groupe de jdr jouant à captaine vaudou.">
+                                <div class="portfolio-info">
+                                    <h4 data-i18n="hobby3_title">Jeu de rôle</h4>
+                                    <p data-i18n="hobby3_desc">Ma passion pour les jeux de rôles à découler de celle des jeux vidéos. Bien qu'elle est commencer par la, elle s'est développer pour ce qu'elle est, une appréciation de l'aventure partagés autour d'une table avec le groupe.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Hobby 4 -->
+                        <div class="col-lg-3 col-md-4 portfolio-item">
+                            <div class="portfolio-wrap">
+                                <img src="assets/img/boardGame.jpg" class="img-fluid" alt="Projet 3">
+                                <div class="portfolio-info">
+                                    <h4 data-i18n="hobby4_title">Jeu de société</h4>
+                                    <p data-i18n="hobby4_desc">Comme pour les jeux de rôles l'expérience partagés avec un groupe est une des choses que je préfère dans les jeux de sociétés, autant ceux en équipe qu'adverseriel.</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                    <button class="slider-btn right" onclick="nextSlide(event)">&#10095;</button>
                 </div>
+            </section>
+            <hr class="m-0" />   
+            <!-- Lightbox -->
+            <div id="lightbox" class="lightbox" onclick="closeLightbox(event)">
+                <div class="lightbox-content" onclick="event.stopPropagation();">
+                    <span class="close" onclick="closeLightbox()">&times;</span>
+                    <h3 id="lightbox-title"></h3>
 
-                <!-- Conteneur pour une image ou vidéo unique -->
-                <div id="lightbox-media"></div>
+                    <!-- Conteneur du slider avec boutons -->
+                    <div id="lightbox-slider" class="slider-container" style="display: none;">
+                        <button class="slider-btn left" onclick="prevSlide(event)">&#10094;</button>
+                        <div class="slider-wrapper">
+                            <div class="slider">
+                                <!-- Images ajoutées dynamiquement -->
+                            </div>
+                        </div>
+                        <button class="slider-btn right" onclick="nextSlide(event)">&#10095;</button>
+                    </div>
 
-                <p id="lightbox-desc"></p>
-                <a id="lightbox-link" href="#" target="_blank" class="btn btn-primary" style="display: none;" data-i18n="view_more" >Voir plus</a>
+                    <!-- Conteneur pour une image ou vidéo unique -->
+                    <div id="lightbox-media"></div>
+
+                    <p id="lightbox-desc"></p>
+                    <a id="lightbox-link" href="#" target="_blank" class="btn btn-primary" style="display: none;" data-i18n="view_more" >Voir plus</a>
+                </div>
             </div>
-        </div>
-
-                     
+             
         </div>
          <!-- AOS -->
         <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
