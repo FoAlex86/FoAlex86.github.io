@@ -118,8 +118,8 @@ window.addEventListener('DOMContentLoaded', event => {
         selector: '.portfolio-lightbox'
       });
 
-    //   const savedLang = localStorage.getItem("language") || "fr";
-    //   changeLanguage(savedLang);
+      const savedLang = localStorage.getItem("language") || "fr";
+      changeLanguage(savedLang);
 });
 
 // Fonction pour ouvrir la lightbox
@@ -255,22 +255,22 @@ function closeLightbox(event) {
     }
 }
 
-// async function changeLanguage(lang) {
-//     try {
-//         const response = await fetch("translations/translations.json");
-//         const translations = await response.json();
+async function changeLanguage(lang) {
+    try {
+        const response = await fetch("translations/translations.json");
+        const translations = await response.json();
 
-//         if (translations[lang]) {
-//             document.querySelectorAll("[data-i18n]").forEach(element => {
-//                 const key = element.getAttribute("data-i18n");
-//                 if (translations[lang][key]) {
-//                     element.textContent = translations[lang][key];
-//                 }
-//             });
+        if (translations[lang]) {
+            document.querySelectorAll("[data-i18n]").forEach(element => {
+                const key = element.getAttribute("data-i18n");
+                if (translations[lang][key]) {
+                    element.textContent = translations[lang][key];
+                }
+            });
 
-//             localStorage.setItem("language", lang); // Sauvegarde la langue choisie
-//         }
-//     } catch (error) {
-//         console.error("Erreur de chargement des traductions :", error);
-//     }
-// }
+            localStorage.setItem("language", lang); // Sauvegarde la langue choisie
+        }
+    } catch (error) {
+        console.error("Erreur de chargement des traductions :", error);
+    }
+}
