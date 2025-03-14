@@ -13,11 +13,11 @@
       "about_me2": "L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
       "portfolio_note": "Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.",
 
-      "exp1_title": "Stage développeur et QA",
+      "exp1_title": "Développeur et QA",
       "exp1_desc": "Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la rééducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise.",
       "exp1_date": "Février 2024 - Juillet 2024",
 
-      "exp2_title": "Stage développeur",
+      "exp2_title": "Développeur",
       "exp2_desc": "Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégration d'un serveur, interface en ligne de commande, manipulation de fichiers compressés, retour utilisateur. Rust.",
       "exp2_date": "Mai 2021 - Juillet 2021",
 
@@ -120,11 +120,11 @@
       "about_me2": "Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
       "portfolio_note": "My portfolio is available below, and you can find my CV on my LinkedIn if you are interested.",
       
-      "exp1_title": "Developer and QA Intern",
+      "exp1_title": "Developer and QA",
       "exp1_desc": "Implementation of specifications created in collaboration with a physiotherapist. Object appearance based on gaze tracking for rehabilitation using VR on Unity. QA of various company modules.",
       "exp1_date": "February 2024 - July 2024",
 
-      "exp2_title": "Developer Intern",
+      "exp2_title": "Developer",
       "exp2_desc": "Analysis and processing of logs and data from an XCP-ng / XO installation to make them clearer. Integration of a server, command-line interface, handling of compressed files, user feedback. Rust.",
       "exp2_date": "May 2021 - July 2021",
 
