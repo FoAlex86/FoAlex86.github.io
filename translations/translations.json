@@ -1,9 +1,9 @@
 {
   "fr": {
       "about": "À propos",
-      "experience": "Expérience",
-      "education": "Formation",
-      "skills": "Compétence",
+      "experience": "Expériences",
+      "education": "Formations",
+      "skills": "Compétences",
       "portfolio": "Portfolio",
       "hobbies": "Loisirs",
       "master_degree": "Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)",
@@ -95,21 +95,21 @@
       "hobbies_intro": "Une petite liste non ordonnée de mes principaux loisirs pour mieux me connaître",
 
       "hobby1_title": "Jeu vidéo",
-      "hobby1_desc": "Passionnée de jeu vidéo depuis mes 4 ans, je joue à de nombreux types de jeux. Même si principalement les jeux de stratégie, RPG, et jeux \"chill\". J'aime tellement les jeux que j'ai déjà participé à la création de plusieurs petits projets de jeux.",
+      "hobby1_desc": "Passionné de jeu vidéo depuis mes 3-4 ans, je joue à de nombreux types de jeux, même s'il s'agit principalement de jeux de stratégie, RPG, et jeux \"chill\". J'ai d'ailleurs déjà participé à la création de plusieurs petits projets de jeux.",
 
       "hobby2_title": "Randonnée",
       "hobby2_desc": "Depuis quelques années, j'apprécie énormément de randonner dans de nouveaux lieux que je n'ai pas encore visités, que ce soit en vacances ou autour de l'endroit où je vis.",
 
       "hobby3_title": "Jeu de rôle",
-      "hobby3_desc": "Ma passion pour les jeux de rôles découle de celle des jeux vidéos. Bien qu'elle ait commencé par là, elle s'est développée pour ce qu'elle est : une appréciation de l'aventure partagée autour d'une table avec un groupe.",
+      "hobby3_desc": "Ma passion pour les jeux de rôles à découler de celle des jeux vidéos. Bien qu'elle est commencer par la, elle s'est développer pour ce qu'elle est, le plaisir de partagé une aventure autour d'une table avec le groupe.",
 
       "hobby4_title": "Jeu de société",
-      "hobby4_desc": "Comme pour les jeux de rôles, l'expérience partagée avec un groupe est l'une des choses que je préfère dans les jeux de société, qu'ils soient coopératifs ou compétitifs."
+      "hobby4_desc": "Comme pour les jeux de rôles l'expérience partagés avec un groupe est une des choses que je préfère dans les jeux de sociétés, qu'il s'agisse de jeu de coopération ou de jeu de compétition."
     },
   "en": {
       "about": "About",
-      "experience": "Experience",
-      "education": "Education",
+      "experience": "Experiences",
+      "education": "Educations",
       "skills": "Skills",
       "portfolio": "Portfolio",
       "hobbies": "Hobbies",
@@ -201,15 +201,15 @@
       "hobbies_intro": "A small unordered list of my main hobbies to get to know me better",
 
       "hobby1_title": "Video Games",
-      "hobby1_desc": "Passionate about video games since I was 4 years old, I play a wide variety of games, mainly strategy games, RPGs, and \"chill\" games. I love games so much that I've participated in the creation of several small game projects.",
+      "hobby1_desc": "I've been a video game enthusiast since I was 3-4 years old, and play a wide range of games, even if they're mainly strategy, RPG and chill games. In fact, I've already taken part in the creation of several small game projects.",
 
       "hobby2_title": "Hiking",
       "hobby2_desc": "For the past few years, I've greatly enjoyed hiking in new places I haven't visited before, whether on vacation or around where I live.",
 
       "hobby3_title": "Role-playing Games",
-      "hobby3_desc": "My passion for role-playing games originated from my love for video games. Although it started there, it evolved into an appreciation for shared adventures around a table with a group.",
+      "hobby3_desc": "My passion for role-playing games grew out of my passion for video games. Although it started there, it developed into what it is today: the pleasure of sharing an adventure around a table with the group.",
 
       "hobby4_title": "Board Games",
-      "hobby4_desc": "Like role-playing games, the shared experience with a group is one of the things I love most about board games, whether they are cooperative or competitive."
+      "hobby4_desc": "As with role-playing games, shared experience with a group is one of my favorite things about board games, whether cooperative or competitive."
   }
 }
