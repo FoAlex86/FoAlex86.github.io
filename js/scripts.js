@@ -106,6 +106,15 @@ const projects = [
         descriptionFR: "Application mobile type 'Leboncoin' développée en Java avec Android Studio et Firebase.",
         descriptionEN: "Mobile app similar to 'Leboncoin' developed in Java with Android Studio and Firebase.",
         link: ""
+    },
+    {
+        titleFR: "The Vampire's Manor programme de mentorat",
+        titleEN: "The Vampire's Manor mentoring program",
+        media: ["assets/img/project12-0.png"],
+        type: "image",
+        descriptionFR: "Projet de développement sur Unreal Engine 5 dans le cadre du Developpement Brief : Artificial intelligence. (Plus d'informations prochainement).",
+        descriptionEN: "Development project on Unreal Engine 5 as part of the Development Brief: Artificial intelligence (More information coming soon).",
+        link: ""
     }
 ];
 
