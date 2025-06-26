@@ -95,6 +95,9 @@
       "project12_title": "The Vampire's Manor programme de mentorat",
       "project12_desc": "Projet de développement sur Unreal Engine 5 dans le cadre du Developpement Brief : Artificial intelligence",
 
+      "project13_title": "Rendu volumique",
+      "project13_desc": "TP développement de rendu volumique pour ma première année de master",
+
       "hobbies_intro": "Une petite liste non ordonnée de mes principaux loisirs pour mieux me connaître",
 
       "hobby1_title": "Jeu vidéo",
@@ -204,7 +207,10 @@
       
       "project12_title": "The Vampire's Manor mentoring program",
       "project12_desc": "Development project on Unreal Engine 5 as part of the Development Brief: Artificial intelligence",
-      
+
+      "project13_title": "Volume rendering",
+      "project13_desc": "Volumetric rendering development for my first year of my Masters",
+
       "hobbies_intro": "A small unordered list of my main hobbies to get to know me better",
 
       "hobby1_title": "Video Games",
