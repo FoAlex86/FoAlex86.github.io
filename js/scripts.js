@@ -110,11 +110,20 @@ const projects = [
     {
         titleFR: "The Vampire's Manor programme de mentorat",
         titleEN: "The Vampire's Manor mentoring program",
-        media: ["assets/img/project12-0.png"],
-        type: "image",
+        media: "https://www.youtube.com/watch?v=w7Eqz4pbOtg",
+        type: "video",
         descriptionFR: "Projet de développement sur Unreal Engine 5 dans le cadre du Developpement Brief : Artificial intelligence. (Plus d'informations prochainement).",
         descriptionEN: "Development project on Unreal Engine 5 as part of the Development Brief: Artificial intelligence (More information coming soon).",
         link: ""
+    },
+    {
+        titleFR: "Rendu volumique",
+        titleEN: "Volume Rendering",
+        media: ["assets/img/project13-1.png", "assets/img/project13-2.png", "assets/img/project13-3.png", "assets/img/project13-0.png", "assets/img/project13-4.png", "assets/img/project13-5.png"],
+        type: "image-slider",
+        descriptionFR: "Cours pratique de rendu de volume en Master 1. J'ai implémenté une fonction qui permet de lire et de stocker l'image sous la forme d'un tableau tridimensionnel. Et j'ai utilisé des fonctions externes pour lire ces tableaux tridimensionnels en tant qu'images.",
+        descriptionEN: "Master 1 volume rendering practical course. I've implemented a function that allows the image to be read and stored in the form of a 3-dimensional table. And used external functions to read these 3-dimensional arrays as images. ",
+        link: "https://github.com/FoAlex86/TP_VolumeRendering"
     }
 ];
 
