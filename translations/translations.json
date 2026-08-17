@@ -1,228 +1,236 @@
 {
   "fr": {
-      "about": "À propos",
-      "experience": "Expériences",
-      "education": "Formations",
-      "skills": "Compétences",
-      "portfolio": "Portfolio",
-      "hobbies": "Loisirs",
-      "master_degree": "Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)",
-      "description_intro": "Passionné par l'innovation numérique, je m'appelle Alexandre Fournier. Je suis un développeur polyvalent en quête d'opportunités dans le jeu vidéo, la 3D, la VR, le traitement d’image ou le développement logiciel. Prêt à relever de nouveaux défis et à créer des expériences immersives et performantes !",
-      "degree": "Diplômé en développement 3D, traitement d’image et intelligence artificielle",
-      "about_me1": "Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.",
-      "about_me2": "L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
-      "portfolio_note": "Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.",
+    "about": "À propos",
+    "experience": "Expériences",
+    "education": "Formations",
+    "skills": "Compétences",
+    "portfolio": "Portfolio",
+    "hobbies": "Loisirs",
+    "master_degree": "Master en informatique graphique (Analyse et traitement d'image, programmation 3D et intelligence artificiel)",
+    "description_intro": "Passionné par l'innovation numérique, je m'appelle Alexandre Fournier. Je suis un développeur polyvalent en quête d'opportunités dans le jeu vidéo, la 3D, la VR, le traitement d’image ou le développement logiciel. Prêt à relever de nouveaux défis et à créer des expériences immersives et performantes !",
+    "degree": "Diplômé en développement 3D, traitement d’image et intelligence artificielle",
+    "about_me1": "Curieux et créatif, j’ai toujours été attiré par les jeux sous toutes leurs formes : jeux vidéo, jeux de société, jeux de rôle… une passion qui me suit depuis l’enfance. J’aime imaginer, concevoir et donner vie à des expériences interactives et immersives.",
+    "about_me2": "L’adaptabilité et le travail en équipe sont des valeurs essentielles pour moi. Collaborer avec d’autres talents permet de repousser les limites, d’apprendre et de créer des projets toujours plus ambitieux.",
+    "portfolio_note": "Mon portfolio est disponible plus bas, et vous pouvez retrouver mon CV sur mon LinkedIn si cela vous intéresse.",
 
-      "exp1_title": "Développeur et QA",
-      "exp1_desc": "Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la rééducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise.",
-      "exp1_date": "Février 2024 - Juillet 2024",
+    "exp1_title": "Développeur et QA",
+    "exp1_desc": "Implémentation d'un cahier des charges créé en collaboration avec un kinésithérapeute. Apparition d'objets selon le déplacement du regard pour de la rééducation utilisant la VR sur Unity. QA de plusieurs des modules de l'entreprise.",
+    "exp1_date": "Février 2024 - Juillet 2024",
 
-      "exp2_title": "Développeur",
-      "exp2_desc": "Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégration d'un serveur, interface en ligne de commande, manipulation de fichiers compressés, retour utilisateur. Rust.",
-      "exp2_date": "Mai 2021 - Juillet 2021",
+    "exp2_title": "Développeur",
+    "exp2_desc": "Analyse et traitements des logs et des données d’une installation XCP-ng / XO pour les rendre plus clairs. Intégration d'un serveur, interface en ligne de commande, manipulation de fichiers compressés, retour utilisateur. Rust.",
+    "exp2_date": "Mai 2021 - Juillet 2021",
 
-      "exp3_title": "Saisonnier",
-      "exp3_desc": "Agent polyvalent, tri de grains.",
-      "exp3_date": "Juin-Juillet 2022",
+    "exp3_title": "Saisonnier",
+    "exp3_desc": "Agent polyvalent, tri de grains.",
+    "exp3_date": "Juin-Juillet 2022",
 
-      "exp4_title": "Extra (serveur)",
-      "exp4_desc": "Service client, longue plage horaire, évènementiel.",
-      "exp4_date": "Juin-Août 2019",
+    "exp4_title": "Extra (serveur)",
+    "exp4_desc": "Service client, longue plage horaire, évènementiel.",
+    "exp4_date": "Juin-Août 2019",
 
-      "exp5_title": "Manutentionnaire",
-      "exp5_date": "Février 2016",
+    "exp5_title": "Manutentionnaire",
+    "exp5_date": "Février 2016",
 
-      "edu1_title": "Faculté des Sciences, Université de Montpellier",
-      "edu1_degree": "Master Informatique",
-      "edu1_desc1": "IMAGINE : Jeux vidéo, Image et Intelligence Artificielle",
-      "edu1_desc2": "Formation programmation 3D, modélisation 3D, traitement et analyse d'image. Machine Learning, IA, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
-      "edu1_date": "2021 - 2024",
+    "exp6_title": "Chercheur",
+    "exp6_desc": "Projet de visualisation de digital twin, objectifs temp réel, 3D/VR avec communication entre visualisation, simulation et fourneau. Autonome sur le projet. (Unreal, Git, C++, Python, VR).",
+    "exp6_date": "Septembre 2025 - Août 2026",
 
-      "edu2_title": "Faculté des Sciences Fondamentales et Appliquées, Université de Poitiers",
-      "edu2_degree": "Licence Informatique",
-      "edu2_desc": "Linux, C#, Base de données (SQL), Java, Javascript, PHP, HTML/CSS...",
-      "edu2_date": "2019 - 2021",
+    "edu1_title": "Faculté des Sciences, Université de Montpellier",
+    "edu1_degree": "Master Informatique",
+    "edu1_desc1": "IMAGINE : Jeux vidéo, Image et Intelligence Artificielle",
+    "edu1_desc2": "Formation programmation 3D, modélisation 3D, traitement et analyse d'image. Machine Learning, IA, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
+    "edu1_date": "2021 - 2024",
 
-      "edu3_title": "CNED",
-      "edu3_degree": "Baccalauréat Scientifique",
-      "edu3_desc": "Travail en autonomie, gestion du temps",
-      "edu3_date": "2017",
+    "edu2_title": "Faculté des Sciences Fondamentales et Appliquées, Université de Poitiers",
+    "edu2_degree": "Licence Informatique",
+    "edu2_desc": "Linux, C#, Base de données (SQL), Java, Javascript, PHP, HTML/CSS...",
+    "edu2_date": "2019 - 2021",
 
-      "skills_programming": "Langages de programmation et logiciels",
-      "vr" : "RV",
-      "skills_workflow": "Workflow et Langue",
-      "skill_1": "Programmation Orientée Objet",
-      "skill_2": "Programmation Orientée Agent",
-      "skill_3": "Développement Agile et cascade",
-      "skill_4": "Français : Maternelle",
-      "skill_5": "Anglais : Courant",
+    "edu3_title": "CNED",
+    "edu3_degree": "Baccalauréat Scientifique",
+    "edu3_desc": "Travail en autonomie, gestion du temps",
+    "edu3_date": "2017",
 
-      "view_more": "Voir plus",
+    "skills_programming": "Langages de programmation et logiciels",
+    "vr": "RV",
+    "skills_workflow": "Workflow et Langue",
+    "skill_1": "Programmation Orientée Objet",
+    "skill_2": "Programmation Orientée Agent",
+    "skill_3": "Développement Agile et cascade",
+    "skill_4": "Français : Maternelle",
+    "skill_5": "Anglais : Courant",
 
-      "project1_title": "Raytracing",
-      "project1_desc": "Rendu raytracing d'une scène 3D",
+    "view_more": "Voir plus",
 
-      "project2_title": "Reconnaissance faciale",
-      "project2_desc": "Développement d'un programme de reconnaissance faciale",
-      
-      "project3_title": "Denoizing",
-      "project3_desc": "Application de débruitage d'images",
-      
-      "project4_title": "Fluzzle",
-      "project4_desc": "Projet de jeu 'Puzzle' 3D",
-      
-      "project5_title": "SmashLemon",
-      "project5_desc": "Développement d'un jeu de combat Smash like",
-      
-      "project6_title": "Snake 3D",
-      "project6_desc": "Développement d'un moteur de jeu pour faire snake dans un environnement 3D",
-      
-      "project7_title": "Fiesta Foraine",
-      "project7_desc": "Projet de jeu RV de master",
-     
-      "project8_title": "Montpunk",
-      "project8_desc": "Jeu réalisé pour GameJam IMAGINE 2023-2024",
-      
-      "project9_title": "Quarto",
-      "project9_desc": "Projet de Master en programmation orientée agent",
-      
-      "project10_title": "TopDownShooter",
-      "project10_desc": "Jeu réalisé pour la GameJam IMAGINE 2022-2023",
-      
-      "project11_title": "Le coin",
-      "project11_desc": "Projet développement mobile pour ma première année de master",
+    "project1_title": "Raytracing",
+    "project1_desc": "Rendu raytracing d'une scène 3D",
 
-      "project12_title": "The Vampire's Manor programme de mentorat",
-      "project12_desc": "Projet de développement sur Unreal Engine 5 dans le cadre du Developpement Brief : Artificial intelligence",
+    "project2_title": "Reconnaissance faciale",
+    "project2_desc": "Développement d'un programme de reconnaissance faciale",
 
-      "project13_title": "Rendu volumique",
-      "project13_desc": "TP développement de rendu volumique pour ma première année de master",
+    "project3_title": "Denoizing",
+    "project3_desc": "Application de débruitage d'images",
 
-      "hobbies_intro": "Une petite liste non ordonnée de mes principaux loisirs pour mieux me connaître",
+    "project4_title": "Fluzzle",
+    "project4_desc": "Projet de jeu 'Puzzle' 3D",
 
-      "hobby1_title": "Jeu vidéo",
-      "hobby1_desc": "Passionné de jeu vidéo depuis mes 3-4 ans, je joue à de nombreux types de jeux, même s'il s'agit principalement de jeux de stratégie, RPG, et jeux \"chill\". J'ai d'ailleurs déjà participé à la création de plusieurs petits projets de jeux.",
+    "project5_title": "SmashLemon",
+    "project5_desc": "Développement d'un jeu de combat Smash like",
 
-      "hobby2_title": "Randonnée",
-      "hobby2_desc": "Depuis quelques années, j'apprécie énormément de randonner dans de nouveaux lieux que je n'ai pas encore visités, que ce soit en vacances ou autour de l'endroit où je vis.",
+    "project6_title": "Snake 3D",
+    "project6_desc": "Développement d'un moteur de jeu pour faire snake dans un environnement 3D",
 
-      "hobby3_title": "Jeu de rôle",
-      "hobby3_desc": "Ma passion pour les jeux de rôles à découler de celle des jeux vidéos. Bien qu'elle est commencer par la, elle s'est développer pour ce qu'elle est, le plaisir de partagé une aventure autour d'une table avec le groupe.",
+    "project7_title": "Fiesta Foraine",
+    "project7_desc": "Projet de jeu RV de master",
 
-      "hobby4_title": "Jeu de société",
-      "hobby4_desc": "Comme pour les jeux de rôles l'expérience partagés avec un groupe est une des choses que je préfère dans les jeux de sociétés, qu'il s'agisse de jeu de coopération ou de jeu de compétition."
-    },
+    "project8_title": "Montpunk",
+    "project8_desc": "Jeu réalisé pour GameJam IMAGINE 2023-2024",
+
+    "project9_title": "Quarto",
+    "project9_desc": "Projet de Master en programmation orientée agent",
+
+    "project10_title": "TopDownShooter",
+    "project10_desc": "Jeu réalisé pour la GameJam IMAGINE 2022-2023",
+
+    "project11_title": "Le coin",
+    "project11_desc": "Projet développement mobile pour ma première année de master",
+
+    "project12_title": "The Vampire's Manor programme de mentorat",
+    "project12_desc": "Projet de développement sur Unreal Engine 5 dans le cadre du Developpement Brief : Artificial intelligence",
+
+    "project13_title": "Rendu volumique",
+    "project13_desc": "TP développement de rendu volumique pour ma première année de master",
+
+    "hobbies_intro": "Une petite liste non ordonnée de mes principaux loisirs pour mieux me connaître",
+
+    "hobby1_title": "Jeu vidéo",
+    "hobby1_desc": "Passionné de jeu vidéo depuis mes 3-4 ans, je joue à de nombreux types de jeux, même s'il s'agit principalement de jeux de stratégie, RPG, et jeux \"chill\". J'ai d'ailleurs déjà participé à la création de plusieurs petits projets de jeux.",
+
+    "hobby2_title": "Randonnée",
+    "hobby2_desc": "Depuis quelques années, j'apprécie énormément de randonner dans de nouveaux lieux que je n'ai pas encore visités, que ce soit en vacances ou autour de l'endroit où je vis.",
+
+    "hobby3_title": "Jeu de rôle",
+    "hobby3_desc": "Ma passion pour les jeux de rôles à découler de celle des jeux vidéos. Bien qu'elle est commencer par la, elle s'est développer pour ce qu'elle est, le plaisir de partagé une aventure autour d'une table avec le groupe.",
+
+    "hobby4_title": "Jeu de société",
+    "hobby4_desc": "Comme pour les jeux de rôles l'expérience partagés avec un groupe est une des choses que je préfère dans les jeux de sociétés, qu'il s'agisse de jeu de coopération ou de jeu de compétition."
+  },
   "en": {
-      "about": "About",
-      "experience": "Experiences",
-      "education": "Educations",
-      "skills": "Skills",
-      "portfolio": "Portfolio",
-      "hobbies": "Hobbies",
-      "master_degree": "Master's degree in Computer Graphics (Image analysis and processing, 3D programming, and Artificial Intelligence)",
-      "description_intro": "Passionate about digital innovation, my name is Alexandre Fournier. I am a versatile developer seeking opportunities in video games, 3D, VR, image processing, or software development. Ready to take on new challenges and create immersive and high-performance experiences!",
-      "degree": "Graduate in 3D development, image processing, and artificial intelligence",
-      "about_me1": "Curious and creative, I have always been attracted to games of all kinds: video games, board games, role-playing games—a passion that has followed me since childhood. I love imagining, designing, and bringing interactive and immersive experiences to life.",
-      "about_me2": "Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
-      "portfolio_note": "My portfolio is available below, and you can find my CV on my LinkedIn if you are interested.",
-      
-      "exp1_title": "Developer and QA",
-      "exp1_desc": "Implementation of specifications created in collaboration with a physiotherapist. Object appearance based on gaze tracking for rehabilitation using VR on Unity. QA of various company modules.",
-      "exp1_date": "February 2024 - July 2024",
+    "about": "About",
+    "experience": "Experiences",
+    "education": "Educations",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "hobbies": "Hobbies",
+    "master_degree": "Master's degree in Computer Graphics (Image analysis and processing, 3D programming, and Artificial Intelligence)",
+    "description_intro": "Passionate about digital innovation, my name is Alexandre Fournier. I am a versatile developer seeking opportunities in video games, 3D, VR, image processing, or software development. Ready to take on new challenges and create immersive and high-performance experiences!",
+    "degree": "Graduate in 3D development, image processing, and artificial intelligence",
+    "about_me1": "Curious and creative, I have always been attracted to games of all kinds: video games, board games, role-playing games—a passion that has followed me since childhood. I love imagining, designing, and bringing interactive and immersive experiences to life.",
+    "about_me2": "Adaptability and teamwork are essential values for me. Collaborating with other talents allows us to push boundaries, learn, and create ever more ambitious projects.",
+    "portfolio_note": "My portfolio is available below, and you can find my CV on my LinkedIn if you are interested.",
 
-      "exp2_title": "Developer",
-      "exp2_desc": "Analysis and processing of logs and data from an XCP-ng / XO installation to make them clearer. Integration of a server, command-line interface, handling of compressed files, user feedback. Rust.",
-      "exp2_date": "May 2021 - July 2021",
+    "exp1_title": "Developer and QA",
+    "exp1_desc": "Implementation of specifications created in collaboration with a physiotherapist. Object appearance based on gaze tracking for rehabilitation using VR on Unity. QA of various company modules.",
+    "exp1_date": "February 2024 - July 2024",
 
-      "exp3_title": "Seasonal Worker",
-      "exp3_desc": "General worker, grain sorting.",
-      "exp3_date": "June-July 2022",
+    "exp2_title": "Developer",
+    "exp2_desc": "Analysis and processing of logs and data from an XCP-ng / XO installation to make them clearer. Integration of a server, command-line interface, handling of compressed files, user feedback. Rust.",
+    "exp2_date": "May 2021 - July 2021",
 
-      "exp4_title": "Waiter (Extra)",
-      "exp4_desc": "Customer service, long working hours, event service.",
-      "exp4_date": "June-August 2019",
+    "exp3_title": "Seasonal Worker",
+    "exp3_desc": "General worker, grain sorting.",
+    "exp3_date": "June-July 2022",
 
-      "exp5_title": "Warehouse Worker",
-      "exp5_date": "February 2016",
+    "exp4_title": "Waiter (Extra)",
+    "exp4_desc": "Customer service, long working hours, event service.",
+    "exp4_date": "June-August 2019",
 
-      "edu1_title": "Faculty of Sciences, University of Montpellier",
-      "edu1_degree": "Master in Computer Science",
-      "edu1_desc1": "IMAGINE: Video Games, Image, and Artificial Intelligence",
-      "edu1_desc2": "Training in 3D programming, 3D modeling, image processing and analysis. Machine Learning, AI, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
-      "edu1_date": "2021 - 2024",
+    "exp5_title": "Warehouse Worker",
+    "exp5_date": "February 2016",
 
-      "edu2_title": "Faculty of Fundamental and Applied Sciences, University of Poitiers",
-      "edu2_degree": "Bachelor's in Computer Science",
-      "edu2_desc": "Linux, C#, Database (SQL), Java, Javascript, PHP, HTML/CSS...",
-      "edu2_date": "2019 - 2021",
+    "exp6_title": "Researcher",
+    "exp6_desc": "Digital twin visualisation project, real time objective, 3D/VR, communication between visualisation, simulation and furnace. Independent on the project. (Unreal, Git, C++, Python, VR)",
+    "exp6_date": "September 2025 - August 2026",
 
-      "edu3_title": "CNED",
-      "edu3_degree": "Scientific Baccalaureate",
-      "edu3_desc": "Self-study, time management",
-      "edu3_date": "2017",
+    "edu1_title": "Faculty of Sciences, University of Montpellier",
+    "edu1_degree": "Master in Computer Science",
+    "edu1_desc1": "IMAGINE: Video Games, Image, and Artificial Intelligence",
+    "edu1_desc2": "Training in 3D programming, 3D modeling, image processing and analysis. Machine Learning, AI, Android Studio, Open GL, Cuda, Unity, C++, Python, ...",
+    "edu1_date": "2021 - 2024",
 
-      "skills_programming": "Programming Languages and Software",
-      "skills_workflow": "Workflow and Language",
-      "vr" : "VR",
-      "skill_1": "Object-Oriented Programming",
-      "skill_2": "Agent-Oriented Programming",
-      "skill_3": "Agile and Waterfall Development",
-      "skill_4": "French: Native",
-      "skill_5": "English: Fluent",
+    "edu2_title": "Faculty of Fundamental and Applied Sciences, University of Poitiers",
+    "edu2_degree": "Bachelor's in Computer Science",
+    "edu2_desc": "Linux, C#, Database (SQL), Java, Javascript, PHP, HTML/CSS...",
+    "edu2_date": "2019 - 2021",
 
-      "view_more": "View more",
-      
-      "project1_title": "Raytracing",
-      "project1_desc": "Raytracing rendering of a 3D scene",
-      
-      "project2_title": "Facial Recognition",
-      "project2_desc": "Development of a facial recognition program",
-      
-      "project3_title": "Denoizingz",
-      "project3_desc": "Image denoising application",
+    "edu3_title": "CNED",
+    "edu3_degree": "Scientific Baccalaureate",
+    "edu3_desc": "Self-study, time management",
+    "edu3_date": "2017",
 
-      "project4_title": "Fluzzle",
-      "project4_desc": "3D 'Puzzle' game project",
+    "skills_programming": "Programming Languages and Software",
+    "skills_workflow": "Workflow and Language",
+    "vr": "VR",
+    "skill_1": "Object-Oriented Programming",
+    "skill_2": "Agent-Oriented Programming",
+    "skill_3": "Agile and Waterfall Development",
+    "skill_4": "French: Native",
+    "skill_5": "English: Fluent",
 
-      "project5_title": "SmashLemon",
-      "project5_desc": "Development of a Smash-like fighting game",
-      
-      "project6_title": "Snake 3D",
-      "project6_desc": "Development of a game engine for 3D snake gameplay",
-      
-      "project7_title": "Fiesta Foraine",
-      "project7_desc": "Master's VR game project",
+    "view_more": "View more",
 
-      "project8_title": "Montpunk",
-      "project8_desc": "Game created for GameJam IMAGINE 2023-2024",
-      
-      "project9_title": "Quarto",
-      "project9_desc": "Master's project in agent-oriented programming",
-      
-      "project10_title": "TopDownShooter",
-      "project10_desc": "Game created for the GameJam IMAGINE 2022-2023",
-      
-      "project11_title": "Le coin",
-      "project11_desc": "Mobile development project for my first year of master's degree",
-      
-      "project12_title": "The Vampire's Manor mentoring program",
-      "project12_desc": "Development project on Unreal Engine 5 as part of the Development Brief: Artificial intelligence",
+    "project1_title": "Raytracing",
+    "project1_desc": "Raytracing rendering of a 3D scene",
 
-      "project13_title": "Volume rendering",
-      "project13_desc": "Volumetric rendering development for my first year of my Masters",
+    "project2_title": "Facial Recognition",
+    "project2_desc": "Development of a facial recognition program",
 
-      "hobbies_intro": "A small unordered list of my main hobbies to get to know me better",
+    "project3_title": "Denoizingz",
+    "project3_desc": "Image denoising application",
 
-      "hobby1_title": "Video Games",
-      "hobby1_desc": "I've been a video game enthusiast since I was 3-4 years old, and play a wide range of games, even if they're mainly strategy, RPG and chill games. In fact, I've already taken part in the creation of several small game projects.",
+    "project4_title": "Fluzzle",
+    "project4_desc": "3D 'Puzzle' game project",
 
-      "hobby2_title": "Hiking",
-      "hobby2_desc": "For the past few years, I've greatly enjoyed hiking in new places I haven't visited before, whether on vacation or around where I live.",
+    "project5_title": "SmashLemon",
+    "project5_desc": "Development of a Smash-like fighting game",
 
-      "hobby3_title": "Role-playing Games",
-      "hobby3_desc": "My passion for role-playing games grew out of my passion for video games. Although it started there, it developed into what it is today: the pleasure of sharing an adventure around a table with the group.",
+    "project6_title": "Snake 3D",
+    "project6_desc": "Development of a game engine for 3D snake gameplay",
 
-      "hobby4_title": "Board Games",
-      "hobby4_desc": "As with role-playing games, shared experience with a group is one of my favorite things about board games, whether cooperative or competitive."
+    "project7_title": "Fiesta Foraine",
+    "project7_desc": "Master's VR game project",
+
+    "project8_title": "Montpunk",
+    "project8_desc": "Game created for GameJam IMAGINE 2023-2024",
+
+    "project9_title": "Quarto",
+    "project9_desc": "Master's project in agent-oriented programming",
+
+    "project10_title": "TopDownShooter",
+    "project10_desc": "Game created for the GameJam IMAGINE 2022-2023",
+
+    "project11_title": "Le coin",
+    "project11_desc": "Mobile development project for my first year of master's degree",
+
+    "project12_title": "The Vampire's Manor mentoring program",
+    "project12_desc": "Development project on Unreal Engine 5 as part of the Development Brief: Artificial intelligence",
+
+    "project13_title": "Volume rendering",
+    "project13_desc": "Volumetric rendering development for my first year of my Masters",
+
+    "hobbies_intro": "A small unordered list of my main hobbies to get to know me better",
+
+    "hobby1_title": "Video Games",
+    "hobby1_desc": "I've been a video game enthusiast since I was 3-4 years old, and play a wide range of games, even if they're mainly strategy, RPG and chill games. In fact, I've already taken part in the creation of several small game projects.",
+
+    "hobby2_title": "Hiking",
+    "hobby2_desc": "For the past few years, I've greatly enjoyed hiking in new places I haven't visited before, whether on vacation or around where I live.",
+
+    "hobby3_title": "Role-playing Games",
+    "hobby3_desc": "My passion for role-playing games grew out of my passion for video games. Although it started there, it developed into what it is today: the pleasure of sharing an adventure around a table with the group.",
+
+    "hobby4_title": "Board Games",
+    "hobby4_desc": "As with role-playing games, shared experience with a group is one of my favorite things about board games, whether cooperative or competitive."
   }
 }
